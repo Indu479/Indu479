@@ -8,7 +8,7 @@ fact: ...
 
 🚀 About Me
 
-I'm a Master’s student in Computer and Electrical Engineering at the University of Houston with a strong background in FPGA design, hardware verification, and embedded systems. I’m passionate about developing cutting-edge solutions in IoT, automation, and digital design.
+I'm a Master’s student in Computer and Electrical Engineering at the University of Houston with a strong background in FPGA design, hardware verification, and embedded systems. 
 
 🛠️ Skills
 
