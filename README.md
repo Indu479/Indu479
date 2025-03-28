@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi, I'm Indu Koritala!
 
 <!--
 **Indu479/Indu479** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+fact: ...
 -->
+
+🚀 About Me
+I'm a Master’s student in Computer and Electrical Engineering at the University of Houston with a strong background in FPGA design, hardware verification, and embedded systems. I’m passionate about developing cutting-edge solutions in IoT, automation, and digital design.
+
+🛠️ Skills
+Languages: Verilog, SystemVerilog, C, Python
+
+Tools: Xilinx Vivado, MATLAB, Quartus, ModelSim
+
+Hardware Platforms: FPGA, Arduino, Raspberry Pi
+
+🎯 Current Focus
+Enhancing expertise in UVM and advanced hardware verification techniques.
